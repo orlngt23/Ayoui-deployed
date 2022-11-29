@@ -1,2 +1,0 @@
-# Ayoui-deployed
-Ayoqui
